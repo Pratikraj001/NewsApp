@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsApp2</string>
+    <string name="news_feed">News Feed</string>
+    <string name="technology">Technology</string>
+    <string name="todo">todo</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="sports">Sports</string>
+    <string name="home">Home</string>
+    <string name="main_heading_display_here_main_heading_display_here">Main heading display here main heading display here</string>
+    <string name="main_content_maint_content">Main content maint content</string>
+</resources>
