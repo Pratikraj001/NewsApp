@@ -43,7 +43,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
                 Intent intent = new Intent(context, webView.class);
 //                this is through error in postion
 //                intent.putExtra("url", modelClassArrayList.get(position).getUrl());
-                //updated version
+//                updated version
                 intent.putExtra("url", modelClassArrayList.get(holder.getAdapterPosition()).getUrl());
                 context.startActivity(intent);
             }

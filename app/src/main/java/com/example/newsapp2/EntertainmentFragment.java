@@ -1,6 +1,7 @@
 package com.example.newsapp2;
 
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -48,6 +49,7 @@ public class EntertainmentFragment extends Fragment {
         ApiUtilities.getApiInterface().getCategoryNews(country, category, 100, api).enqueue(new Callback<MainNews>() {
             @Override
             public void onResponse(Call<MainNews> call, Response<MainNews> response) {
+                Log.d("onResponse", "onResponse: "+response.toString());
                 if(response.isSuccessful()){
                     modelClassArrayList.addAll(response.body().getArticles());
                     adapter.notifyDataSetChanged();
@@ -56,7 +58,7 @@ public class EntertainmentFragment extends Fragment {
 
             @Override
             public void onFailure(Call<MainNews> call, Throwable t) {
-
+                Log.d("onFailure", "onFailure: ", t);
             }
         });
     }
