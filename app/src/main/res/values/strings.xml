@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">NewsApp2</string>
+    <string name="app_name">Newsy</string>
     <string name="news_feed">News Feed</string>
     <string name="technology">Technology</string>
     <string name="todo">todo</string>
