@@ -5,12 +5,14 @@
 
 ## Screenshots
 
-<img src = "https://github.com/Pratikraj001/PR_News/assets/78545924/d07a5d46-20d4-4fc4-af1c-7fd9fab5a474" width ="200">
-<img src = "https://github.com/Pratikraj001/PR_News/assets/78545924/4638ff90-e2c3-4cca-8a0b-f2e99efa6c9e" width ="200">
-<img src = "https://github.com/Pratikraj001/PR_News/assets/78545924/00e33019-31e5-4f21-b202-207f99637aea" width ="200">
-<img src = "https://github.com/Pratikraj001/PR_News/assets/78545924/bce4a01f-b873-4257-aab1-e37d355c14b6" width ="200">
-<img src = "https://github.com/Pratikraj001/PR_News/assets/78545924/f0436d4d-91a7-4fd8-8810-3835391e3ab4" width ="200">
-<img src = "https://github.com/Pratikraj001/PR_News/assets/78545924/8e63863e-ff12-46b9-b73b-4ab660f0605e" width ="200">
+
+
+<img src = "https://github.com/Pratikraj001/PR_News/assets/78545924/5df60583-6460-4ed2-8e9f-c559a29d3a1a" width ="200">
+<img src = "https://github.com/Pratikraj001/PR_News/assets/78545924/060b58ac-f02c-41b8-8f45-e4e61069457e" width ="200">
+<img src = "https://github.com/Pratikraj001/PR_News/assets/78545924/df9f2d81-aef8-4156-8ee2-93ce07b8ec0b" width ="200">
+<img src = "https://github.com/Pratikraj001/PR_News/assets/78545924/e9ddd941-19e2-4e8d-b5ca-3ca87c93c273" width ="200">
+<img src = "https://github.com/Pratikraj001/PR_News/assets/78545924/dca65d38-3dfb-42f3-8e20-2f5ad10bed4b" width ="200">
+
 
 
 ## LICENSE
