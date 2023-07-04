@@ -1,6 +1,9 @@
 # NEWSY
 
 
+
+https://play.google.com/store/apps/details?id=com.mynewsy.newsapp2
+
 [![](https://img.shields.io/badge/Built%20with-NewsAPI-brightgreen)](https://newsapi.org/)
 
 ## Screenshots
